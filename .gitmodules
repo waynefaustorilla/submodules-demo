@@ -7,3 +7,6 @@
 [submodule "world-clock"]
 	path = world-clock
 	url = https://github.com/waynefaustorilla/world-clock.git
+[submodule "mern-demo-api"]
+	path = mern-demo-api
+	url = https://gitlab.com/waynefaustorilla/mern-demo-api.git
