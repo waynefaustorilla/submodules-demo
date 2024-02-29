@@ -1,0 +1,9 @@
+[submodule "deck-of-cards"]
+	path = deck-of-cards
+	url = https://github.com/waynefaustorilla/deck-of-cards.git
+[submodule "weather-app"]
+	path = weather-app
+	url = https://github.com/waynefaustorilla/weather-app.git
+[submodule "world-clock"]
+	path = world-clock
+	url = https://github.com/waynefaustorilla/world-clock.git
